@@ -1,0 +1,82 @@
+{
+  "user": [
+    {
+      "selectedDo": "1",
+      "selectedCls": "I-A",
+      "p1": "-",
+      "p2": "Tamil",
+      "p3": "C (RN)",
+      "p4": "Maths (SS)",
+      "p5": "Lunch",
+      "p6": "Maths (SS)",
+      "p7": "Lab 8 (RN)",
+      "p8": "-",
+      "id": 1
+    },
+    {
+      "selectedDo": "1",
+      "selectedCls": "I-B",
+      "p1": "English",
+      "p2": "C (MM)",
+      "p3": "C (MM)",
+      "p4": "Digital (RS)",
+      "p5": "Lunch",
+      "p6": "Digital (RS)",
+      "p7": "English",
+      "p8": "-",
+      "id": 2
+    },
+    {
+      "selectedDo": "1",
+      "selectedCls": "II-A",
+      "p1": "HE",
+      "p2": "HE",
+      "p3": "OSL (JP)",
+      "p4": "Java (GA)",
+      "p5": "Lunch",
+      "p6": "OSL (JP)",
+      "p7": "OR (RN)",
+      "p8": "-",
+      "id": 3
+    },
+    {
+      "selectedDo": "1",
+      "selectedCls": "II-B",
+      "p1": "-",
+      "p2": "OR (JP)",
+      "p3": "Lab 6 (RS)",
+      "p4": "Lab 6 (RS)",
+      "p5": "Lunch",
+      "p6": "Java (NA)",
+      "p7": "English",
+      "p8": "-",
+      "id": 4
+    },
+    {
+      "selectedDo": "1",
+      "selectedCls": "III-A",
+      "p1": "-",
+      "p2": "Elective (DP)",
+      "p3": "Kotlin Lab 8 (SS)",
+      "p4": "Lunch",
+      "p5": "Cyber Security (MK)",
+      "p6": "Kotlin (SS)",
+      "p7": "Linux (NA)",
+      "p8": "-",
+      "id": 5
+    },
+    {
+      "selectedDo": "1",
+      "selectedCls": "III-B",
+      "p1": "-",
+      "p2": "Linux Lab 8 (DP)",
+      "p3": "Linux Lab 8 (DP)",
+      "p4": "Kotlin Lab 8 (MK)",
+      "p5": "Lunch",
+      "p6": "Kotlin (MK)",
+      "p7": "Linux (DP)",
+      "p8": "-",
+      "id": 6
+    }
+  ]
+}
